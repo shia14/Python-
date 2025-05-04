@@ -1,8 +1,8 @@
 Hostel Management System
 
-Welcome to the Hostel Management System – a simple yet powerful desktop application developed in Python using Tkinter and SQLite.
+Welcome to the Hostel Management System . a simple desktop application developed in Python using Tkinter and SQLite.
 
-This application is specially designed to assist hostel wardens in managing students, rooms, and payments with ease — all through an intuitive graphical interface.
+This application is specially designed to assist hostel wardens in managing students, rooms, and payments with ease  all through an intuitive graphical interface.
 
 
 
